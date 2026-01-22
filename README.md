@@ -30,4 +30,4 @@ A simple and interactive **To-Do List** application built with **React** and **T
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/todo-react.git
+git clone https://github.com/susheel001/todo-react.git
